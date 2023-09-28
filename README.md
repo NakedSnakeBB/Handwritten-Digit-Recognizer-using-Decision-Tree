@@ -1,6 +1,4 @@
 # Handwritten-Digit-Recognizer-using-Decision-Tree
-Sure, I can try to make a bigger and more proper README file for your project. Here is my attempt:
-
 # Handwriting Recognition
 
 This project is a simple demonstration of how to use decision tree classifier to recognize handwritten digits from the MNIST dataset. The MNIST dataset is a collection of 70,000 images of handwritten digits from 0 to 9, each with a size of 28 by 28 pixels. The dataset is split into 60,000 training images and 10,000 test images. The goal is to train a model that can accurately predict the digit label given an image.
