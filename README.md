@@ -42,7 +42,7 @@ The script will load the data, train a decision tree classifier using grid searc
 
 ## Results
 
-The decision tree classifier achieved an accuracy score of 0.855 on the test set, which is decent but not very impressive. The confusion matrix shows that the model has some difficulty in distinguishing between some digits, such as 4 and 9, or 3 and 5. The plot of the decision tree shows that the model uses a lot of features (pixels) to make the splits, and the tree is very deep and complex.
+The decision tree classifier achieved an accuracy score of 0.878 on the test set, which is decent. The confusion matrix shows that the model has some difficulty in distinguishing between some digits, such as 4 and 9, or 3 and 5. The plot of the decision tree shows that the model uses a lot of features (pixels) to make the splits, and the tree is very deep and complex.
 
 ## Limitations
 
